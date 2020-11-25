@@ -1,5 +1,7 @@
 # Auto Approve GitHub Action
 
+Zensurance: cloned from `hmarr/auto-approve-action` to auto-approve dependabot PRs.
+
 **Name:** `hmarr/auto-approve-action`
 
 Automatically approve GitHub pull requests. The `GITHUB_TOKEN` secret must be provided as the `github-token` input for the action to work.
